@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grok #4 - Dogs Barking", "Grok #4 - Dogs Barking\Grok #4 - Dogs Barking.csproj", "{3415DA51-CBBB-4DCA-A3C2-A2C366AFCF7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3415DA51-CBBB-4DCA-A3C2-A2C366AFCF7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3415DA51-CBBB-4DCA-A3C2-A2C366AFCF7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3415DA51-CBBB-4DCA-A3C2-A2C366AFCF7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3415DA51-CBBB-4DCA-A3C2-A2C366AFCF7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {321E59D3-A47E-4A1D-9DCB-92BE337DC918}
+	EndGlobalSection
+EndGlobal
